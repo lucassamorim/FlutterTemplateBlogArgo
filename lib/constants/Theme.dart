@@ -5,6 +5,8 @@ class ArgonColors {
 
   static const Color white = Color(0xFFFFFFFF);
 
+  static const Color grey = Color(0xFF666666);
+
   static const Color initial = Color.fromRGBO(23, 43, 77, 1.0);
 
   static const Color primary = Color.fromRGBO(94, 114, 228, 1.0);
